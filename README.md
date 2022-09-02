@@ -1,2 +1,2 @@
 # spotclips
-IDK ANYMORE AAAAAAAAAAA (xpware 2 but with bootstrap 4??? idfk)
+share your videos on a shittily put together built with php website
