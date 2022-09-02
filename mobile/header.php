@@ -1,6 +1,6 @@
 <div class="header">
               <div class="nav">
-              <small><span style="text-align: right;"><!--Logged in as <b>jko64</b>--> <a href="#" class="navlink">sign in</a> | <a href="#" class="navlink">sign up</a> </span> | <a class="navlink" href=".">home</a> | <a class="navlink" href=".">users</a> | <a class="navlink" href=".">videos</a> | <a class="navlink" href=".">upload</a></small>
+              <small><span style="text-align: right;"><!--Logged in as <b>jko64</b>--> <a href="#" class="navlink">sign in</a> | <a href="#" class="navlink">sign up</a> </span> | <a class="navlink" href=".">home</a> | <a class="navlink" href=".">users</a> | <a class="navlink" href=".">videos</a> | <a class="navlink" href="javascript:alert('gtfo go upload on desktop');">upload</a></small>
               </div>
               <div class="imgheader">
               <img style="margin: auto;" src="../revision2.png" height="100px" width="300px">

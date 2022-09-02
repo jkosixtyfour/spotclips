@@ -44,6 +44,15 @@ body {
 .content {
     float: right;
 }
+.contentnosb {
+    float: none;
+}
+.contentsbright {
+    float: left;
+}
+.sidebarright {
+    float: right;
+}
 .footer {
     border: none;
 }
