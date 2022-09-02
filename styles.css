@@ -32,3 +32,9 @@ body {
 .active {
     border-bottom: 1px solid blue;
 }
+.sidebar {
+    float: left;
+}
+.content {
+    float: right;
+}
