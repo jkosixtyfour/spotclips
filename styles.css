@@ -1,3 +1,9 @@
+@charset "UTF-8";/*
+* Default stylesheet for SC99
+* Copyright 2017-2022 Kyodirect
+* Copyright 2022 jko64
+*/
+
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 0;
